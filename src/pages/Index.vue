@@ -132,7 +132,7 @@
 						<p class="m-8">
 							By profession, I'm a full stack developer (read as
 							"gets paid to google perfectly").
-							<a href="/vaibhav_raj_singh_resume.pdf">Download resume</a>
+							<a href="/vaibhav-raj-singh-resume.pdf">Download resume</a>
 						</p>
 
 						<p class="m-8">
