@@ -95,7 +95,7 @@
 					</li>
 					<li>
 						<a
-							href="/vaibhav_raj_singh_resume.pdf"
+							href="/vaibhav-raj-singh-resume.pdf"
 							class="text-copy-primary hover:text-gray-600 cursor-pointer"
 							data-cypress="resume"
 							>Resume</a
