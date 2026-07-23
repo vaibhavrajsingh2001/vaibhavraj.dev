@@ -4,6 +4,10 @@
 src/.temp
 node_modules
 dist
+.nuxt
+.output
+.pnpm-store
+.codex-artifacts
 .env
 .env.*
 static/rss.xml
