@@ -1,0 +1,10 @@
+allowBuilds:
+  esbuild: true
+  sharp: true
+  unrs-resolver: true
+  vue-demi: true
+minimumReleaseAgeExclude:
+  - '@nuxtjs/seo@5.3.6'
+  - nuxtseo-shared@5.3.6
+  - '@vue/language-core@3.3.8'
+  - vue-tsc@3.3.8
