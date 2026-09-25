@@ -2,7 +2,7 @@
   "name": "vaibhavraj-dev",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@11.10.0",
+  "packageManager": "pnpm@12.6.0",
   "engines": {
     "node": ">=22.0.0"
   },
